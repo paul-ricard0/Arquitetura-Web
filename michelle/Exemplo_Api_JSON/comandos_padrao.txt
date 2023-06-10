@@ -1,7 +1,0 @@
-npm install express #instalando express
-
-npm i express consign ejs fs --save
-
-# verbos http pdf aula 2 (cai na prova)
-
-# localhost:`port`
